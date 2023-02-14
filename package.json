@@ -1,0 +1,26 @@
+{
+  "name": "ratemeananagha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/22shubham22/RateMeanAnagha.git"
+  },
+  "author": "shubham anand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/22shubham22/RateMeanAnagha/issues"
+  },
+  "homepage": "https://github.com/22shubham22/RateMeanAnagha#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.7",
+    "hbs": "^4.2.0",
+    "nodemon": "^2.0.20"
+  }
+}
